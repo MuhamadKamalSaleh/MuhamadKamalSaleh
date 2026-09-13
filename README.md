@@ -6,6 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MuhamadKamalSaleh&label=Profile%20views&color=2563eb&style=for-the-badge)](https://github.com/MuhamadKamalSaleh)
 [![Followers](https://img.shields.io/github/followers/MuhamadKamalSaleh?label=Followers&style=for-the-badge&color=2563eb)](https://github.com/MuhamadKamalSaleh?tab=followers)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamadkamal1298@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-kamal-117879254)
 
 </div>
@@ -96,6 +97,7 @@ A Flutter application for calculating and presenting body mass index results.
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Gmail-Muhamadkamal1298%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamadkamal1298@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhamadKamalSaleh-181717?style=for-the-badge&logo=github)](https://github.com/MuhamadKamalSaleh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhamad_Kamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-kamal-117879254)
 
