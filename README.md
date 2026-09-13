@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mohammed Kamal Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,45:0f172a,100:2563eb&text=Mohammed%20Kamal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Automation%20Engineer&descAlignY=58&animation=fadeIn)
+<img src="./assets/automation-banner.svg" width="100%" alt="Mohammed Kamal — Automation Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Automation+Engineer;Building+practical+software+solutions;Always+learning%2C+building%2C+and+improving)](https://git.io/typing-svg)
 
