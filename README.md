@@ -17,23 +17,33 @@ I’m **Mohammed Kamal**, an Automation Engineer from Erbil, Kurdistan, Iraq. I 
 
 - Interested in automation, computer vision, and artificial intelligence
 - Building mobile applications with Flutter, Dart, Kotlin, and Java
-- Developing responsive web interfaces with JavaScript and HTML
+- Developing responsive web interfaces with modern JavaScript technologies
 - Open to collaborating on practical automation and software projects
 
 ## Tech Stack
 
 <div align="center">
 
-![Dart](https://img.shields.io/badge/Dart-0891B2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0E7490?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-155E75?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-22D3EE?style=for-the-badge&logo=javascript&logoColor=083344)
-![HTML5](https://img.shields.io/badge/HTML5-0E7490?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0891B2?style=for-the-badge&logo=python&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-06B6D4?style=for-the-badge&logo=android-studio&logoColor=083344)
-![Git](https://img.shields.io/badge/Git-155E75?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-083344?style=for-the-badge&logo=github&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -82,14 +92,22 @@ A Flutter application for calculating and presenting body mass index results.
 </tr>
 </table>
 
-## GitHub Activity
+## $ git log --stat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhamadKamalSaleh&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=22d3ee&icon_color=06b6d4&text_color=cbd5e1" alt="Mohammed's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadKamalSaleh&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1" alt="Mohammed's most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhamadKamalSaleh&theme=github_dark" alt="Mohammed's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhamadKamalSaleh&theme=github_dark" alt="Mohammed's most used languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhamadKamalSaleh&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=CFFAFE&dates=94A3B8&currStreakNum=ECFEFF&sideNums=ECFEFF)
+<img width="72%" src="https://streak-stats.demolab.com?user=MuhamadKamalSaleh&hide_border=true&background=0D1117&ring=22D3EE&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=CFFAFE&dates=94A3B8&currStreakNum=ECFEFF&sideNums=ECFEFF" alt="Mohammed's GitHub streak" />
+
+</div>
+
+## $ cat contribution_graph.txt
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadKamalSaleh&bg_color=0d1117&color=22d3ee&line=06b6d4&point=67e8f9&area=true&hide_border=true" alt="Mohammed's contribution activity graph" />
 
 </div>
 
@@ -97,9 +115,9 @@ A Flutter application for calculating and presenting body mass index results.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-Muhamadkamal1298%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamadkamal1298@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MuhamadKamalSaleh-083344?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhamadKamalSaleh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhamad_Kamal-0891B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-kamal-117879254)
+[![Email](https://img.shields.io/badge/Gmail-Muhamadkamal1298%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamadkamal1298@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MuhamadKamalSaleh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhamadKamalSaleh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhamad_Kamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-kamal-117879254)
 
 </div>
 
